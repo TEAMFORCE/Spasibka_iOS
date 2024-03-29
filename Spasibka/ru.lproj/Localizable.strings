@@ -1,0 +1,480 @@
+/* 
+  Localizable.strings
+  Spasibka
+
+  Created by Yerzhan Gapurinov on 04.05.2023.
+  
+*/
+"autorisation" = "Авторизация";
+"digitalThanks" = "Спасибка";
+"digitalThanksAbout" = "";
+"enter" = "Войти";
+"register" = "Регистрация";
+"enterTelegramName" = "Для входа введите имя пользователя";
+"enterSmsCode" = "Введите код";
+"pressGetCode" = "Для входа нажмите ”получить код”, или смените пользователя";
+"userName" = "Введите логин";
+"userNameDescription" = "Введите адрес электронной почты или\nимя пользователя в Telegram";
+"smsCode" = "Код подтверждения";
+"loginSuccess" = "Вы успешно зарегистрированы";
+ 
+"newTransact" = "Новая благодарность";
+"close" = "Закрыть";
+"chooseRecipient" = "Выберите получателя";
+"availableThanks" = "Доступно";
+"reasonPlaceholder" = "Описание перевода";
+"recipient" = "Получатель: @";
+"userNotFound" = "По вашему запросу\nникого не нашли";
+"thanks" = "Спасибо!";
+"transactStatusLabel" = "Ваш перевод в обработке";
+"date" = "Дата";
+"time" = "Время";
+"toWhom" = "Кому";
+"amount" = "Количество";
+"inProcess" = "Выполняется";
+ 
+"wrongUsername" = "Ошибка. Пользователь не найден";
+"wrongCode" = "Ошибка. Неверный код";
+"loadPageError" = "Не удалось загрузить страницу";
+"connectionError" = "Ошибка соединения";
+"notFoundError" = "Ошибка 404";
+"noCode" = "Не приходит код?";
+"messageEmail" = "Проверьте корректность введенной почты";
+"messageTelegram" = "Перейдите в диалог с ботом (ссылка), напишите ему что-нибудь после чего повторите процедуру аутентификации.";
+"today" = "Сегодня";
+"yesterday" = "Вчера";
+"cancelTransferQuestion" = "Отменить перевод?";
+"comment" = "Комментарий";
+"total" = "Итого";
+"cart" = "Корзина";
+"removeFromCart" = "Удалить из корзины?";
+"yes" = "ДА";
+"yesLowercase" = "Да";
+"no" = "НЕТ";
+"noLowercase" = "Нет";
+"validUntil" = "Действителен до ";
+"delete" = "Удалить";
+ 
+"findEmployee" = "Найти участника";
+"search" = "Поиск";
+"firedAt" = "Уволены на текущую дату";
+"inOffice" = "Работающие в офисе";
+"onHoliday" = "В отпуске";
+"subdivision" = "Подразделение";
+"searchProduct" = "Поиск товара";
+"successfulOrder" = "Заказ успешно оформлен";
+"benefit" = "Бенефит";
+"select" = "Выбрать";
+"units" = " шт.";
+"leftAmount" = "Оставшееся количество";
+"selectedAmount" = "Выбрано пользователями";
+"restAmount" = "Остаток";
+"limitForPeriod" = "Лимит за период";
+"validity" = "Срок действия";
+"description" = "Описание";
+"price" = "Стоимость";
+"notLimited" = "Неограничено";
+"orderHistory" = "История заказов";
+"processed" = "оформлен";
+"status" = "Статус";
+ 
+"ordered" = "Заказано";
+"acceptedWaiting" = "Принято, ожидание";
+"acceptedByCustomer" = "Получено";
+"purchased" = "Куплено";
+"readyForDelivery" = "Готово к доставке";
+"sentOrDelivered" = "Отправлено";
+"ready" = "Готово";
+"repeat" = "Повторить";
+"declined" = "Отклонено";
+"cancelled" = "Отменено";
+"education" = "Образование";
+"travelAndLeisure" = "Путешествия и досуг";
+"health" = "Здоровье";
+"from" = "От";
+"to" = "До";
+"expires" = "Истекает срок";
+"category" = "Категория";
+"categories" = "Категории";
+"price1" = "Цена";
+"travel" = "Путешествия";
+"leisure" = "и досуг";
+"all" = "Всё";
+"inLowercase" = " в ";
+"region" = "Регион";
+"searchingInProgress" = "Идет поиск...";
+"aboutTheApp" = "О приложении";
+"feedback" = "Обратная связь";
+"language" = "Язык";
+"feedbackMainText" = "По вопросам и предложениям обращайтесь";
+"emailForFeedback" = "example@example.com";
+"tgForFeedback" = "@exampleTelegram";
+"appVersion" = "Версия приложения";
+"OSVersion" = "Версия операционной системы";
+"deviceModel" = "Модель устройства";
+"domain" = "Домен";
+"licenseIssuedBefore" = "Лицензия выдана до:";
+"undefined" = "Не определен";
+"events" = "События";
+"balance" = "Баланс";
+"challenges" = "Челленджи";
+"benefitCafe" = "Бенефит-кафе";
+"history" = "История";
+"participants" = "Участники";
+"participants2" = "Участников";
+"analytics" = "Аналитика";
+"settings" = "Настройки";
+"main" = "Главная";
+"newTransactForYou" = "Вам новая благодарность";
+"newChallenge" = "Новый челлендж!";
+"recommend" = "Рекомендуем";
+"all1" = "Все";
+"gratitudes" = "Благодарности";
+"winners" = "Победители";
+"publicGratitude" = "Публичная благодарность";
+"news" = "Новости";
+"new" = "Новый";
+"historyOfTransactions" = "История переводов";
+"distributionBalance" = "Счет распределения";
+"personalBalance" = "Личный счет";
+"defaultCurrency" = "спасибок";
+
+"youReceived" = "Вы получили ";
+"fromLowercase" = " от ";
+"someoneReceived" = " получил ";
+"wonTheChallenge" = " победил в челлендже ";
+"challengeCreated" = "Создан челлендж ";
+"byUser" = " пользователем ";
+"forLowercase" = " для ";
+"refillFromSystem" = " пополнение счета от системы";
+"forChallengeFee" = " для взноса в челлендж ";
+"challengeReward" = " награда из челленджа ";
+"refundFromChallenge" = " возврат из челленджа ";
+"purchase" = " покупка";
+"purchaseUppercase" = "Покупка";
+"refundFromMarket" = " возврат из бенефит-кафе";
+"systemRefill" = "Системное пополнение";
+"creatingChallenge" = "Создание челленджа";
+"winningTheChallenge" = "Победа в челлендже";
+"refundPrizeFund" = "Возврат призового фонда";
+"refundBenefit" = "Возврат бенефита";
+"systemDebit" = "Системное списание";
+
+"fromSpaceAfter" = "от ";
+"winnersCount" = "Победителей";
+"prizeFund" = "Призовой фонд";
+"awardeesCount" = "Призовых мест";
+"active" = "Активен";
+"completed" = "Завершен";
+"deferred" = "Ожидает начала";
+"updated" = "Обновлен: ";
+"notifications" = "Уведомления";
+"surveyFinished" = "опрос завершен";
+"surveyClosesTomorrow" = "опрос закроется завтра";
+"newSurvey" = "Новый опрос";
+"challenge" = "Челлендж";
+"dateOfCompletion" = "Дата завершения";
+"dateOfStart" = "Дата начала";
+"organizer" = "Организатор";
+"yourPrize" = "Ваша награда:";
+"result" = "Результат";
+"rejectApplication" = "Отклонить заявку";
+"setLimitsIfNeeded" = "Установите ограничения, если они необходимы";
+"showApplicantsSection" = "Показывать раздел Претенденты";
+"multipleReportsSection" = "Несколько отчетов";
+"basicInfo" = "Основная информация";
+"fillChallengeInfo" = "Заполните данные о челлендже";
+"fillChallengeTemplateInfo" = "Заполните данные о шаблоне";
+"nameOfObject" = "Название";
+"challDateOfStart" = "Дата начала события";
+"challDateOfCompletion" = "Дата завершения события";
+"setPrizeFund" = "Укажите призовой фонд";
+"setAwardeesCount" = "Укажите количество призовых мест";
+"challengeCover" = "Обложка челленджа";
+"additionalSettings" = "Дополнительные настройки";
+"gratitude" = "Благодарность";
+ 
+"text" = "Текст";
+"forWhat" = "За что";
+"photography" = "Фотография";
+"photographies" = "Фотографии";
+"attachments" = "Вложения";
+"sticker" = "Cтикер";
+"reportText" = "Текст отчета";
+"liked" = "Понравилось";
+ 
+"privacyPolicy" = "Политика конфиденциальности";
+"termsOfUse" = "Пользовательское соглашение";
+ 
+"currentOrganization" = "Текущее сообщество";
+"chooseOrganization" = "Выбор сообщества";
+"organizations" = "Сообщества"; 
+ 
+"agreementText" = "Согласен с Политикой конфиденциальности и условиями Пользовательского соглашения";
+"agreementPolicy" = "Политикой конфиденциальности";
+"agreementTermsOfUse" = "Пользовательского соглашения";
+"agreeWith" = "Согласен с ";
+"andConditions" = " и условиями ";
+ 
+"anonymously" = "Анонимно";
+"showForEveryone" = "Показывать всем";
+ 
+"chooseSticker" = "Выбери стикер";
+ 
+"youSent" = "Вы отправили";
+"sentForChallenge" = "Вы отправили для взноса в челлендж ";
+"youReceivedFrom" = "Вы получили от";
+"youWantedToSend" = "Вы хотели отправить ";
+ 
+"message" = "Cообщение";
+"gratitudeStatus" = "Статус благодарности";
+"information" = "ИНФОРМАЦИЯ";
+"gratitudeType" = "Тип благодарности";
+"incomingGratitude" = "Входящая благодарность";
+"rejectionReason" = "Причина отказа";
+ 
+"myProfile" = "Мой профиль";
+"hello" = "Привет, ";
+"profile" = "Профиль";
+ 
+"location" = "Местоположение";
+"address" = "Адрес";
+ 
+"contactDetails" = "Контактные данные";
+ 
+"surnameField" = "Фамилия";
+"nameField" = "Имя";
+"middleField" = "Отчество";
+"gender" = "Пол";
+"emailField" = "Корпоративная почта";
+"phoneField" = "Мобильный номер";
+"birthdateField" = "Дата рождения";
+"birthday" = "День рождения";
+"hideYearOfBirth" = "Скрывать год рождения";
+ 
+"man" = "Мужской";
+"woman" = "Женский";
+"notIndicated" = "Не указан";
+"inOfficeStatus" = "В офисе";
+"vactionStatus" = "В отпуске";
+"remoteStatus" = "Удаленно";
+"sickLeaveStatus" = "На больничном";
+"apply" = "Применить";
+"reset" = "Сбросить";
+"filter" = "Фильтр";
+"workingPlace" = "Место работы";
+"company" = "Компания";
+"department" = "Подразделение";
+"jobTitle" = "Должность";
+"role" = "Роль";
+"engagementIndexForCurrentPeriod" = "Индекс внутренней активности за текущий период";
+"engagementIndex" = "Индекс внутренней активности";
+"hereIsEmpty" = "Здесь пока ничего нет";
+"firstComment" = "Станьте первым, кто оставит\nкомментарий!";
+"selectPeriod" = "Выберите период";
+"myAccount" = "Мой счет";
+"leftToSend" = "Осталось раздать";
+"onAgreement" = "На согласовании";
+"canceled" = "Аннулировано";
+
+"yourBalance" = "Ваш баланс";
+"remainingDayText" = "До конца периода ";
+
+"sended" = "Распределено";
+"day" = "день";
+"days" = "дней";
+"days1" = "дня";
+"enterButton" = "Войти";
+"nextButton" = "Далее";
+"registerButton" = "Регистрация";
+"getCodeButton" = "Получить код";
+"changeUserButton" = "Сменить пользователя";
+"sendButton" = "Отправить";
+"toTheBeginingButton" = "В начало";
+"logoutButton" = "Выйти";
+"closeButton" = "Закрыть";
+"thankButton" = "Поблагодарить";
+"sendTransactionAgain" = "Сделать еще один перевод";
+"getButton" = "Получить";
+"toMain" = "На главную";
+"addButton" = "Добавить";
+"addToCart" = "Добавить в корзину";
+"inCartButton" = "В корзине";
+"payButton" = "Оплатить";
+"details" = "Детали";
+"comments" = "Комментарии";
+"reactions" = "Оценки";
+"like" = "Лайк";
+"edited" = "Изменено";
+"allHistory" = "Вся история";
+"received" = "Получено";
+"sent" = "Отправлено";
+"groupByUser" = "Сгруппировать по пользователю";
+"transfer" = "Перевод";
+"transferVerb" = "Перевести";
+"purchaseBenefit" = "Покупка бенефита";
+"refund" = "Возврат денег";
+"createChallenge" = "Создать";
+"benefits" = "Бенефиты";
+"challengeTemplates" = "Шаблоны";
+"newTemplate" = "Новый шаблон";
+"editTemplate" = "Редактирование шаблона";
+"searchByTemplates" = "Поиск по шаблонам";
+"activeChallenges" = "Активные";
+"deferredChallenges" = "Предстоящие";
+"myResult" = "Мой результат";
+"candidates" = "Кандидаты";
+"winners" = "Победители";
+"participants" = "Участники";
+"sendResult" = "Отправить результат";
+"reject" = "Отклонить";
+"confirm" = "Подтвердить";
+"cancel" = "Отменить";
+"create" = "Создать";
+"save" = "Сохранить";
+"addPhoto" = "Добавить фото";
+"addSticker" = "Добавить стикер";
+"my" = "Мои";
+"ours" = "Наши";
+"common" = "Общие";
+"personalAccount" = "Личный аккаунт";
+"organizationAccount" = "Аккаунт сообщества";
+"votingChallenge" = "Голосование";
+"defaultChallenge" = "Обычный";
+"delayedStart" = "Отложенный запуск";
+"changeFond" = "Изменить счет";
+
+//EditChallengeScene
+"editChallengeTitle" = "Редактирование челленджа";
+"deleteChallenge" = "Удалить челлендж";
+
+// onboarding
+"onboardingTitle" = "Онбординг";
+"createCommunity" = "Создать сообщество";
+"connectToCommunity" = "Подключиться к сообществу";
+"step" = "Шаг";
+"continue" = "Продолжить";
+"communities" = "Сообщества";
+"createCommunityDescription" = "Создавайте сообщество, приглашайте друзей и присоединяйтесь к другим!";
+"fillCommunityInformation" = "Заполните данные о сообществе";
+"title" = "Название";
+"invitationCode" = "Код приглашения";
+"invitationLink" = "Ссылка для приглашения";
+"code" = "Код";
+"periodSettings" = "Настройки периода";
+"periodStartDate" = "Дата начала периода";
+"periodEndDate" = "Дата окончания периода";
+"start" = "Запустить";
+"manualConfig" = "Настроить вручную";
+"automaticConfig" = "Настроить автоматически";
+"startWithStandard" = "Начните работу со стандартными настройками\nили заполните вручную";
+"congrats" = "Поздравляем!";
+"siteConfigComplete" = "Вы завершили основные\nнастройки сайта";
+"goToMainScreen" = "Перейти на главный экран";
+"learningMaterials" = "Обучающие материалы";
+"noCommunityToStartPeriod" = "Вы не можете запустить период, так как у вас нет сообществ";
+"joinOrCreateCommunity" = "Вступите в сообещство по приглашению или создайте свое";
+"backToCommunities" = "Вернуться к сообществам";
+"inviteMembersToCommunity" = "Пригласить участников в сообщество";
+"inviteMembers" = "Пригласить участников";
+"headStartBalance" = "Стартовый баланс создателя";
+"usersStartBalance" = "Стартовый баланс новых пользователей";
+"communityCreated" = "Вы создали сообщество";
+
+"selectPhoto" = "Выбрать из Галереи";
+"takePhoto" = "Сделать фото";
+
+"changeOrganizationPopupTitle" = "Перейти в сообщество";
+"purchases" = "Покупки";
+"transactions" = "Переводы";
+"noUserDataWarning" = "Ууупс, для корректной работы системы необходимо заполнить профиль пользователя";
+"goToSettings" = "Перейти в настройки";
+"challengeType" = "Тип челленджа";
+"challengeСover" = "Обложка челленджа";
+"categoriesDescription" = "Выберите одну или несколько категорий";
+"categoriesEdit" = "Управление категориями";
+"createCategory" = "Создать категорию";
+"parentCategories" = "Родительские категории";
+"categoryName" = "Название категории";
+"deleteCategory" = "Удалить категорию";
+"deleteCategoryError" = "Не удалось удалить категорию";
+"edit" = "Редактировать";
+
+"loginViaVK" = "Войти через VK ID";
+"connectVK" = "Привязать VK ID";
+"connectVKSucceed" = "Аккаунт ВКонтакте успешно привязан";
+"or" = "или";
+"toTheEndPeriodSuffix" = "до конца периода";
+
+// new challenges
+
+"challengeChains" = "Цепочки заданий";
+"completedChains" = "Завершенные";
+"challengeIsUnavailable" = "Челлендж недоступен для выполнения";
+"tasksTotal" = "Заданий";
+"reward" = "Награда";
+
+// languages
+"englishLanguage" = "Английский";
+"russianLanguage" = "Русский";
+
+// alerts
+"changeLanguageAlert" = "Хотите сменить язык на ";
+
+// awards
+"awards" = "Награды";
+"myAwards" = "Мои награды";
+"uniqueAwards" = "Уникальные";
+"getAward" = "Получить";
+"awardReceived" = "Получено";
+"awardReceivedDate" = "Дата получения";
+"setAwardToStatusButtonTItle" = "Установить в статус";
+"finishDate" = "Дата окончания";
+"steps" = "Шаги";
+"chainSteps" = "Шаги цепочки";
+"challengeChain" = "Цепочка заданий";
+"results" = "Результаты";
+
+"mode" = "Режим";
+"toChallenge" = "К челленджу";
+"report" = "Отчет";
+
+//notification titles
+"notificationTitleGratitude" = "Благодарность";
+"notificationTitleComment" = "Комментарий";
+"notificationTitleReaction" = "Реакция";
+"notificationTitleNewVictory" = "Победа в челлендже";
+"notificationTitleNewApplication" = "Отчёт к челленджу";
+"notificationTitleNewOrder" = "Новый заказ";
+"notificationTitleChallengeExpiration" = "Завершение челленджа";
+"notificationTitleSurveyExpiration" = "Завершение опроса";
+"notificationTitleChallenge" = "Челлендж";
+"notificationTitleNewSurvey" = "Новый опрос";
+
+//notification texts
+"youWonChallenge" = "Вы победили в челлендже ";
+"newChallengePrefix" = "Новый челлендж ";
+"challengePrefix" = "Челлендж ";
+"finishesTommorow" = " завершается завтра";
+"newOrderFor" = "Новый заказ на ";
+"allParticipantsFinishedSurvey" = "Все участники прошли опрос ";
+"tommorowAt" = "Завтра в ";
+"closesAccessToSurvey" = " закрывается доступ к прохождению опроса ";
+"finishesSurvey" = " завершается опрос ";
+"hurryUpToParticipate" = ". Успей поучаствовать!";
+"createdNewSurvey" = "Создан новый опрос ";
+"newComment" = "Новый комментарий ";
+"newReaction" = "Новая реакция ";
+"newReport" = "Новый отчет ";
+"forTransaction" = "к переводу ";
+"forChallenge" = "к челленджу ";
+
+"taskStatus" = "Статус заданий";
+"done" = "выполнено";
+
+"youHave" = "У вас";
+"newNotifications" = "новых уведомления";
+"newNotification" = "новое уведомление";
+
+"workFormat" = "Формат работы";
+"workingStatus" = "Работает";

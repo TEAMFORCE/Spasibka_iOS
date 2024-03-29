@@ -1,0 +1,19 @@
+:root {
+   --extra1: #B8D181;
+   --extra2: #FEA592;
+   --general-brand: #0584CC;
+   --general-brand-secondary: #D8ECFF;
+   --general-negative: #FFFFFF;
+   --general-contrast: #212121;
+   --general-contrast-secondary: #8A8A8E;
+   --general-midpoint: #CECECE;
+   --minor-success: #02B172;
+   --minor-success-secondary: #EDF8F3;
+   --minor-error: #D15B5B;
+   --minor-error-secondary: #FFEDE2;
+   --minor-warning: #FCC12A;
+   --minor-warning-secondary: #FFF4EC;
+   --minor-info: #2E5AAC;
+   --minor-info-secondary: #EEF2FA;
+   --minor-negative-secondary: #EAEAEA;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>489908383495-j63fcsbr256jds3ggrp9oof35e0c8klr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-tpQjdzt53f21PN9-QX7fmGwGBg3gHm8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489908383495</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Spasibka</string>
+	<key>PROJECT_ID</key>
+	<string>timforcer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timforcer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489908383495:ios:0c1e73add47f9ba6d75fa2</string>
+</dict>
+</plist>

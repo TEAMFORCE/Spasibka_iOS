@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "tabler_award.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

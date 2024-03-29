@@ -1,0 +1,480 @@
+/* 
+  Localizable.strings
+  Spasibka
+
+  Created by Yerzhan Gapurinov on 04.05.2023.
+  
+*/
+"autorisation" = "Authorization";
+"digitalThanks" = "Spasibka";
+"digitalThanksAbout" = "";
+"enter" = "Sign In";
+"register" = "Sign Up";
+"enterTelegramName" = "Enter your username to sign in";
+"enterSmsCode" = "Enter the code";
+"pressGetCode" = "To sign in, press 'Get Code' or change the user";
+"userName" = "Enter login";
+"userNameDescription" = "Enter your email address or\nTelegram username";
+"smsCode" = "Confirmation code";
+"loginSuccess" = "You have successfully registered";
+ 
+"newTransact" = "New Thanks";
+"close" = "Close";
+"chooseRecipient" = "Choose recipient";
+"availableThanks" = "Available";
+"reasonPlaceholder" = "Transaction description";
+"recipient" = "Recipient: @";
+"userNotFound" = "No one found\nwith your request";
+"thanks" = "Thanks!";
+"transactStatusLabel" = "Your transact in progress";
+"date" = "Date";
+"time" = "Time";
+"toWhom" = "To whom";
+"amount" = "Amount";
+"inProcess" = "In process";
+ 
+"wrongUsername" = "Error. User not found";
+"wrongCode" = "Error. Incorrect code";
+"loadPageError" = "Failed to load page";
+"connectionError" = "Connection error";
+"notFoundError" = "404 not found error";
+"noCode" = "Didn't receive the code?";
+"messageEmail" = "Check the correctness of the entered email";
+"messageTelegram" = "Go to the bot's dialog (link), write something to it, and then repeat the authentication procedure.";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"cancelTransferQuestion" = "Cancel transfer?";
+"comment" = "Comment";
+"total" = "Total";
+"cart" = "Cart";
+"removeFromCart" = "Remove from cart?";
+"yes" = "YES";
+"yesLowercase" = "Yes";
+"no" = "NO";
+"noLowercase" = "No";
+"validUntil" = "Valid until ";
+"delete" = "Delete";
+ 
+"findEmployee" = "Find employee";
+"search" = "Search";
+"firedAt" = "Fired on current date";
+"inOffice" = "Working in the office";
+"onHoliday" = "On vacation";
+"subdivision" = "Subdivision";
+"searchProduct" = "Search product";
+"successfulOrder" = "Order placed successfully";
+"benefit" = "Benefit";
+"select" = "Select";
+"units" = " units";
+"leftAmount" = "Remaining amount";
+"selectedAmount" = "Selected by users";
+"restAmount" = "Left amount";
+"limitForPeriod" = "Limit for the period";
+"validity" = "Validity";
+"description" = "Description";
+"price" = "Price";
+"notLimited" = "Not limited";
+"orderHistory" = "Order history";
+"processed" = "processed";
+"status" = "Status";
+ 
+"ordered" = "Ordered";
+"acceptedWaiting" = "Accepted, waiting";
+"acceptedByCustomer" = "Received by customer";
+"purchased" = "Purchased";
+"readyForDelivery" = "Ready for delivery";
+"sentOrDelivered" = "Sent";
+"ready" = "Ready";
+"repeat" = "Reload";
+"declined" = "Declined";
+"cancelled" = "Cancelled";
+"education" = "Education";
+"travelAndLeisure" = "Travel and leisure";
+"health" = "Health";
+"from" = "From";
+"to" = "To";
+"expires" = "Expires";
+"category" = "Category";
+"categories" = "Categories";
+"price1" = "Price";
+"travel" = "Travel";
+"leisure" = "and leisure";
+"all" = "All";
+"inLowercase" = " in ";
+"region" = "Region";
+"searchingInProgress" = "Searching...";
+"aboutTheApp" = "About the app";
+"feedback" = "Feedback";
+"language" = "Language";
+"feedbackMainText" = "For questions and suggestions please contact";
+"emailForFeedback" = "example@example.com";
+"tgForFeedback" = "@exampleTelegram";
+"appVersion" = "App version";
+"OSVersion" = "OS version";
+"deviceModel" = "Device model";
+"domain" = "Domain";
+"licenseIssuedBefore" = "License issued before:";
+"undefined" = "Undefined";
+"events" = "Events";
+"balance" = "Balance";
+"challenges" = "Challenges";
+"benefitCafe" = "Benefit cafe";
+"history" = "History";
+"participants" = "Participants";
+"analytics" = "Analytics";
+"settings" = "Settings";
+"main" = "Main";
+"newTransactForYou" = "New gratitude for you";
+"newChallenge" = "New challenge!";
+"recommend" = "We recommend";
+"all1" = "All";
+"gratitudes" = "Gratitudes";
+"winners" = "Winners";
+"publicGratitude" = "Public gratitude";
+"news" = "News";
+"new" = "New";
+"historyOfTransactions" = "History of transactions";
+"distributionBalance" = "Distribution balance";
+"personalBalance" = "Personal balance";
+"defaultCurrency" = "thanks";
+ 
+"youReceived" = "You received ";
+"fromLowercase" = " from ";
+"someoneReceived" = " received ";
+"wonTheChallenge" = " won the challenge ";
+"challengeCreated" = "Challenge created ";
+"byUser" = " by user ";
+"forLowercase" = " for ";
+"refillFromSystem" = " account refill from system";
+"forChallengeFee" = " for challenge fee ";
+"challengeReward" = " challenge reward ";
+"refundFromChallenge" = " refund from challenge ";
+"purchase" = " purchase";
+"purchaseUppercase" = "Purchase";
+"refundFromMarket" = " refund from Benefit cafe";
+"systemRefill" = "System refill";
+"creatingChallenge" = "Creating a challenge";
+"winningTheChallenge" = "Winning the challenge";
+"refundPrizeFund" = "Refund of prize fund";
+"refundBenefit" = "Refund from benefit";
+"systemDebit" = "System debit";
+
+"fromSpaceAfter" = "from ";
+"winnersCount" = "Winners";
+"prizeFund" = "Prize fund";
+"awardeesCount" = "Prize places";
+"active" = "Active";
+"completed" = "Completed";
+"deferred" = "Deferred";
+"updated" = "Updated: ";
+"notifications" = "Notifications";
+"surveyFinished" = "survey finished";
+"surveyClosesTomorrow" = "survey closes tomorrow";
+"newSurvey" = "New survey";
+"challenge" = "Challenge";
+"dateOfCompletion" = "Completion date";
+"dateOfStart" = "Start date";
+"organizer" = "Organizer";
+"yourPrize" = "Your prize:";
+"result" = "Result";
+"rejectApplication" = "Reject application";
+"setLimitsIfNeeded" = "Set limits if needed";
+"showApplicantsSection" = "Show applicants";
+"multipleReportsSection" = "Multiple reports";
+"basicInfo" = "Basic info";
+"fillChallengeInfo" = "Fill in challenge information";
+"fillChallengeTemplateInfo" = "Fill in template information";
+"nameOfObject" = "Name";
+"challDateOfStart" = "Start date of the event";
+"challDateOfCompletion" = "Completion date of the event";
+"setPrizeFund" = "Set prize fund";
+"setAwardeesCount" = "Set number of prize places";
+"challengeCover" = "Challenge cover";
+"additionalSettings" = "Additional settings";
+"gratitude" = "Gratitude";
+ 
+"text" = "Text";
+"forWhat" = "For what";
+"photography" = "Photography";
+"photographies" = "Photographies";
+"attachments" = "Attachments";
+"sticker" = "Sticker";
+"reportText" = "Report text";
+"liked" = "Liked";
+ 
+"privacyPolicy" = "Privacy Policy";
+"termsOfUse" = "Terms of Use";
+ 
+"currentOrganization" = "Current organization";
+"chooseOrganization" = "Choose an organization";
+"organizations" = "Organizations";
+ 
+"agreementText" = "I agree to the Privacy Policy and Terms of Use";
+"agreementPolicy" = "Privacy Policy";
+"agreementTermsOfUse" = "Terms of Use";
+"agreeWith" = "I agree with ";
+"andConditions" = " and ";
+ 
+"anonymously" = "Anonymously";
+"showForEveryone" = "Show for everyone";
+ 
+"chooseSticker" = "Choose a sticker";
+ 
+"youSent" = "You sent";
+"sentForChallenge" = "You sent for challenge fee";
+"youReceivedFrom" = "You received from";
+"youWantedToSend" = "You wanted to send ";
+ 
+"message" = "Message";
+"gratitudeStatus" = "Gratitude status";
+"information" = "INFORMATION";
+"gratitudeType" = "Gratitude type";
+"incomingGratitude" = "Incoming gratitude";
+"rejectionReason" = "Rejection reason";
+ 
+"myProfile" = "My Profile";
+"hello" = "Hello, ";
+"profile" = "Profile";
+ 
+"location" = "Location";
+"address" = "Address";
+ 
+"contactDetails" = "Contact details";
+ 
+"surnameField" = "Last name";
+"nameField" = "First name";
+"middleField" = "Middle name";
+"gender" = "Gender";
+"emailField" = "Corporate email";
+"phoneField" = "Mobile number";
+"birthdateField" = "Birthdate";
+"birthday" = "Birthday";
+"hideYearOfBirth" = "Hide year of birth";
+ 
+"man" = "Male";
+"woman" = "Female";
+"notIndicated" = "Not indicated";
+"inOfficeStatus" = "In office";
+"vactionStatus" = "On vacation";
+"remoteStatus" = "Remote";
+"sickLeaveStatus" = "On sick leave";
+"apply" = "Apply";
+"reset" = "Reset";
+"filter" = "Filter";
+"workingPlace" = "Place of work";
+"company" = "Company";
+"department" = "Department";
+"jobTitle" = "Job title";
+"role" = "Role";
+"engagementIndexForCurrentPeriod" = "Engagement index for the current period";
+"engagementIndex" = "Engagement index";
+"hereIsEmpty" = "Nothing here yet";
+"firstComment" = "Be the first to leave\na comment!";
+"selectPeriod" = "Select period";
+"myAccount" = "My account";
+"leftToSend" = "Left to send";
+"onAgreement" = "On agreement";
+"canceled" = "Canceled";
+
+"yourBalance" = "Your balance";
+"remainingDayText" = "Until the end of the period ";
+ 
+"sended" = "Distributed";
+"day" = "day";
+"days" = "days";
+"days1" = "days";
+"enterButton" = "Sign in";
+"nextButton" = "Next";
+"registerButton" = "Register";
+"getCodeButton" = "Get code";
+"changeUserButton" = "Change user";
+"sendButton" = "Send";
+"toTheBeginingButton" = "To the beginning";
+"logoutButton" = "Logout";
+"closeButton" = "Close";
+"thankButton" = "Thank";
+"sendTransactionAgain" = "Make another transfer";
+"getButton" = "Get";
+"toMain" = "To main";
+"addButton" = "Add";
+"addToCart" = "Add to cart";
+"inCartButton" = "In cart";
+"payButton" = "Pay";
+"details" = "Details";
+"comments" = "Comments";
+"reactions" = "Reactions";
+"like" = "Like";
+"edited" = "Edited";
+"allHistory" = "All history";
+"received" = "Received";
+"sent" = "Sent";
+"groupByUser" = "Group by user";
+"transfer" = "Transfer";
+"transferVerb" = "Transfer";
+"purchaseBenefit" = "Purchase of benefit";
+"refund" = "Refund";
+"createChallenge" = "Create";
+"benefits" = "Benefits";
+"challengeTemplates" = "Templates";
+"newTemplate" = "New template";
+"editTemplate" = "Edit template";
+"searchByTemplates" = "Search by templates";
+"activeChallenges" = "Active";
+"deferredChallenges" = "Upcoming";
+"myResult" = "My result";
+"candidates" = "Candidates";
+"winners" = "Winners";
+"participants" = "Participants";
+"participants2" = "Participants";
+"sendResult" = "Send result";
+"reject" = "Reject";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"create" = "Create";
+"save" = "Save";
+"addPhoto" = "Add photo";
+"addSticker" = "Add sticker";
+"my" = "My";
+"ours" = "Ours";
+"common" = "Common";
+"personalAccount" = "Personal account";
+"organizationAccount" = "Organization account";
+"votingChallenge" = "Voting";
+"defaultChallenge" = "Default";
+"delayedStart" = "Delayed start";
+"changeFond" = "Change fond account";
+
+//EditChallengeScene
+"editChallengeTitle" = "Challenge editing";
+"deleteChallenge" = "Delete challenge";
+
+// onboarding
+"onboardingTitle" = "Onboarding";
+"createCommunity" = "Create community";
+"connectToCommunity" = "Connect to Community";
+"step" = "Step";
+"continue" = "Continue";
+"communities" = "Communities";
+"createCommunityDescription" = "Create a community, invite friends and join others!";
+"fillCommunityInformation" = "Fill in community information";
+"title" = "Title";
+"invitationCode" = "Invitation code";
+"invitationLink" = "Invitation link";
+"code" = "Code";
+"periodSettings" = "Period Settings";
+"periodStartDate" = "Period Start Date";
+"periodEndDate" = "Period End Date";
+"start" = "Start";
+"manualConfig" = "Manual сonfiguration";
+"automaticConfig" = "Automatic сonfiguration";
+"startWithStandard" = "Start with Standard settings\nor fill out manually";
+"congrats" = "Congratulations!";
+"siteConfigComplete" = "You have completed\nbasic site settings";
+"goToMainScreen" = "Go to Main Screen";
+"learningMaterials" = "Learning Materials";
+"noCommunityToStartPeriod" = "You cannot start a period because you have no communities";
+"joinOrCreateCommunity" = "Join an invitation community or create your own";
+"backToCommunities" = "Back to Communities";
+"inviteMembersToCommunity" = "Invite members to Community";
+"inviteMembers" = "Invite members";
+"headStartBalance" = "Creator start balance";
+"usersStartBalance" = "Starting balance for new users";
+"communityCreated" = "You have created a community";
+
+"selectPhoto" = "Select from Library";
+"takePhoto" = "Take photo";
+
+"changeOrganizationPopupTitle" = "Switch to organization";
+"purchases" = "Purchases";
+"transactions" = "Transactions";
+"noUserDataWarning" = "Oops, to work properly, you need to fill out the user profile";
+"goToSettings" = "Go to settings";
+"challengeType" = "Challenge type";
+"challengeСover" = "Challenge cover";
+"categoriesDescription" = "Select one or more categories";
+"categoriesEdit" = "Manage categories";
+"createCategory" = "Create category";
+"parentCategories" = "Parent categories";
+"categoryName" = "Category name";
+"deleteCategory" = "Delete category";
+"deleteCategoryError" = "Delete category error";
+"edit" = "Edit";
+
+"loginViaVK" = "Sign in with VK ID";
+"connectVK" = "Connect VK ID";
+"connectVKSucceed" = "VK ID connected successfully";
+"or" = "or";
+"toTheEndPeriodSuffix" = "to the end of the period";
+
+// new challenges
+
+"challengeChains" = "Challenge chains";
+"completedChains" = "Completed";
+"challengeIsUnavailable" = "The Challenge is unavailable for execution";
+"tasksTotal" = "Tasks";
+"reward" = "Reward";
+
+// languages
+"englishLanguage" = "English";
+"russianLanguage" = "Russian";
+
+// alerts
+"changeLanguageAlert" = "Do you want to change the language to ";
+
+// awards
+"awards" = "Awards";
+"myAwards" = "My awards";
+"uniqueAwards" = "Unique";
+"getAward" = "Get";
+"awardReceived" = "Received";
+"awardReceivedDate" = "Received on";
+"setAwardToStatusButtonTItle" = "Set to status";
+"finishDate" = "Finish date";
+"steps" = "Steps";
+"chainSteps" = "Chain steps";
+"challengeChain" = "Challenge chain";
+"results" = "Results";
+"mode" = "Mode";
+"toChallenge" = "To challenge";
+"report" = "Report";
+
+//notification titles
+"notificationTitleGratitude" = "Gratitude";  
+"notificationTitleComment" = "Comment";
+"notificationTitleReaction" = "Reaction";
+"notificationTitleNewVictory" = "New victory";
+"notificationTitleNewApplication" = "New application";
+"notificationTitleNewOrder" = "New order";
+"notificationTitleChallengeExpiration" = "Challenge expiration";
+"notificationTitleSurveyExpiration" = "Survey expiration";
+"notificationTitleChallenge" = "Challenge";
+"notificationTitleNewSurvey" = "New survey";
+
+//notification texts
+"youWonChallenge" = "You won the challenge ";
+"newChallengePrefix" = "New challenge ";
+"challengePrefix" = "Challenge ";
+"finishesTommorow" = " ends tomorrow";
+"newOrderFor" = "New order for ";
+"allParticipantsFinishedSurvey" = "All participants completed the survey ";
+"tommorowAt" = "Tomorrow at ";
+"closesAccessToSurvey" = " access to the survey will be closed ";
+
+"finishesSurvey" = " ends survey ";
+"hurryUpToParticipate" = ". Hurry up to participate!";
+"createdNewSurvey" = "A new survey has been created ";
+"newComment" = "New comment ";
+"newReaction" = "New reaction ";
+"newReport" = "New report ";
+"forTransaction" = "to the transaction ";
+"forChallenge" = "to the challenge ";
+
+"taskStatus" = "Task status";
+"done" = "done";
+
+"youHave" = "You have";
+"newNotifications" = "new notifications";
+"newNotification" = "new notification";
+
+"workFormat" = "Work format";
+"workingStatus" = "Working";
